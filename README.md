@@ -1,8 +1,4 @@
 # Amazon Web Services Cloud
 
+### Training Program: Big Data Technology Fundamentals Online
 
-License
-----
- > Momus Chao
-
-**Have a good one, Hell Yeah!**
